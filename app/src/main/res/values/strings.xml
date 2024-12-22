@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="password_length_error">Password must be at least 8 characters</string>
+    <string name="title_home_page">Welcome to Dicoding Story Apps</string>
+    <string name="email">Email</string>
+    <string name="hint_email_input">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="hint_password_input">Enter your Password</string>
+    <string name="btn_text_login">Login</string>
+    <string name="imageView">Image View</string>
+    <string name="dicoding_story_app">Dicoding Story App</string>
+    <string name="name">Name</string>
+    <string name="hint_name_input">Enter Your Name</string>
+    <string name="btn_text_register">Register</string>
+    <string name="register_text">Please fill out the form below to complete your registration.</string>
+    <string name="login_success">Login Success</string>
+    <string name="message_welcome_page">Let\'s share your experiences on this app</string>
+    <string name="logout">Logout</string>
+    <string name="logout_info">Logout Success</string>
+    <string name="Localize">Localization</string>
+    <string name="date">Created at: xxxx-xx-xx</string>
+    <string name="add_story">Add Stories</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_galery">Gallery</string>
+    <string name="btn_upload">Upload</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="deskripsi">Description</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="maps">Maps</string>
+    <string name="location">Share your location</string>
+    <string name="location_failed">Failed to get location</string>
+    <string name="location_succes">Succes get location</string>
+</resources>

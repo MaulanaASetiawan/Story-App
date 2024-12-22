@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="invalid_email">Email Tidak Valid</string>
+    <string name="password_length_error">Password harus minimal 8 karakter</string>
+    <string name="title_home_page">Selamat Datang di Aplikasi Dicoding Story</string>
+    <string name="email">Email</string>
+    <string name="hint_email_input">Masukkan Email Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="hint_password_input">Masukkan Kata Sandi Anda</string>
+    <string name="btn_text_login">Masuk</string>
+    <string name="imageView">Tampilan Gambar</string>
+    <string name="dicoding_story_app">Aplikasi Dicoding Story</string>
+    <string name="name">Nama</string>
+    <string name="hint_name_input">Masukkan Nama Anda</string>
+    <string name="btn_text_register">Daftar</string>
+    <string name="register_text">Silakan lengkapi formulir di bawah ini untuk menyelesaikan pendaftaran Anda.</string>
+    <string name="login_success">Masuk Berhasil</string>
+    <string name="message_welcome_page">Ayo bagikan pengalaman Anda di aplikasi ini</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_info">Keluar Berhasil</string>
+    <string name="Localize">Lokalisasi</string>
+    <string name="date">Dibuat pada: xxxx-xx-xx</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="btn_camera">Kamera</string>
+    <string name="btn_galery">Galeri</string>
+    <string name="btn_upload">Unggah</string>
+    <string name="permission_granted">Izin Diberikan</string>
+    <string name="permission_denied">Izin Ditolak</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
